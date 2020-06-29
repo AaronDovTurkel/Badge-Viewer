@@ -3,9 +3,26 @@
 	"displayName": "Badge Viewer",
 	"description": "A place to view your badges.",
 	"version": "0.0.1",
+	"publisher": "TheHolyCoder",
+	"author": {
+		"name": "Aaron Dov Turkel"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/AaronDovTurkel/Badge-Viewer.git"
+	},
+	"license": "MIT",
 	"engines": {
 		"vscode": "^1.46.0"
 	},
+	"icon": "images/build-badge.png",
+	"keywords": [
+		"CI/CD",
+		"Netlify",
+		"github",
+		"badges",
+		"webview"
+	],
 	"categories": [
 		"Other"
 	],
